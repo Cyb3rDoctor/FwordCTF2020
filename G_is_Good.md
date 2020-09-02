@@ -172,3 +172,27 @@ One of the best things in youtube is that you can translate your videos titles a
 - The main idea of this challenge is linking everything you get together.
 
 - To those who say that the idea of the first step of this challenge was in a challenge in another platform/CTF: An idea of a step may be in other platforms and there is no problem in mixing ideas, because this is a CTF, so the main goal is to learn new ideas **(even if they are mixed with other ideas).** So, please compare all the steps and the whole scenario and the contents of the challenge, and don't compare only one step!!!
+
+-----
+
+# Fun facts:
+
+- The pictures of Richard and John are for people who don't exist!
+```
+For more details, read more about (thispersondoesnotexist.com)
+```
+<br/><br/>
+![thispersondoesnotexist](https://user-images.githubusercontent.com/70543460/92025580-6f6cbb80-ed68-11ea-8a98-3cf9be333d09.png)
+<br/><br/>
+![thispersondoesnotexist2](https://user-images.githubusercontent.com/70543460/92025602-7a275080-ed68-11ea-87f8-a7056f20007e.png)
+<br/><br/>
+
+<br/><br/>
+
+- **"Richard Roe"** and **"John Doe"** are placeholder names!
+```
+Placeholder names are words that can refer to objects or people whose names do not exist, are temporarily forgotten, irrelevant, or unknown in the context in which they are being discussed.
+```
+<br/><br/>
+![image](https://user-images.githubusercontent.com/70543460/92026250-692b0f00-ed69-11ea-8c81-4ff8e4edd885.png)
+<br/><br/>
