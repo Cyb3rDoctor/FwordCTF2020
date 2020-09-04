@@ -238,5 +238,30 @@ https://www.instadp.com/
 
 ![-032](https://user-images.githubusercontent.com/70543460/92234334-83c0cd80-eeba-11ea-8762-25b629fc5f56.png)
 
+-----
 
+# Fun facts:
 
+- The pictures of Fred and Wokaihwokomas are for people who don't exist!
+```
+For more details, read more about (thispersondoesnotexist.com)
+```
+<br/><br/>
+![Fred Bloggs](https://user-images.githubusercontent.com/70543460/92234765-49a3fb80-eebb-11ea-8d18-3e1fe0ff2472.png)
+<br/><br/>
+![Wokaihwokomas Kustermann](https://user-images.githubusercontent.com/70543460/92234787-5294cd00-eebb-11ea-9a28-b18d26fe3d52.png)
+<br/><br/>
+
+<br/><br/>
+
+- **"Fred Bloggs"** is a placeholder name!
+```
+Placeholder names are words that can refer to objects or people whose names do not exist, are temporarily forgotten, irrelevant, or unknown in the context in which they are being discussed.
+```
+<br/><br/>
+![image](https://user-images.githubusercontent.com/70543460/92235003-a7384800-eebb-11ea-946b-cfb8317c8fb5.png)
+<br/><br/>
+
+<br/><br/>
+
+- **"Wokaihwokomas Kustermann"** is generated using a fake name generator!
